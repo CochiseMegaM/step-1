@@ -1,0 +1,3 @@
+Course [name=CSC 116, title=Intro to Programming - Java, section=003, credits=3, instructorId=spbalik, meetingDays=MW, startTime=1250, endTime=1440]
+Course [name=CSC 216, title=Software Development Fundamentals, section=001, credits=3, instructorId=sesmith5, meetingDays=MW, startTime=1330, endTime=1445]
+Course [name=null, title=null, section=null, credits=0, instructorId=null, meetingDays=null, startTime=0, endTime=0]
